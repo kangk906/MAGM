@@ -6,3 +6,5 @@
 ![Animated GIF](Gif/Screw.gif)
 ### Machine Operation Task
 ![Animated GIF](Gif/Button.gif)
+### Pipe Maintenance Task
+![Animated GIF](Gif/Pipe.gif)
