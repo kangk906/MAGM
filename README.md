@@ -1,7 +1,10 @@
 # MAGM
 
 ## Results
-
+### 1. Tool Organizing Task
+![Animated GIF](Gif/Tool.gif)
+### 3. Tile Installation Task
+![Animated GIF](Gif/Tile.gif)
 ### 3. Tile Installation Task
 ![Animated GIF](Gif/Tile.gif)
 ### 4. Screw Tightening Task
