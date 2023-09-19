@@ -1,3 +1,4 @@
 # MAGM
 
-![Animated GIF](Gif/W1lW.gif)
+
+![Animated GIF](Gif/Screw.gif)
