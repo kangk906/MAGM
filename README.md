@@ -2,9 +2,11 @@
 
 ## Results
 
-### Screw Tightening Task
+### 3. Tile Installation Task
+![Animated GIF](Gif/Tile.gif)
+### 4. Screw Tightening Task
 ![Animated GIF](Gif/Screw.gif)
-### Machine Operation Task
+### 5. Machine Operation Task
 ![Animated GIF](Gif/Button.gif)
-### Pipe Maintenance Task
+### 6. Pipe Maintenance Task
 ![Animated GIF](Gif/Pipe.gif)
