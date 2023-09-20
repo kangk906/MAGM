@@ -1,4 +1,5 @@
 # MAGM
+## Installation
 
 ## Results
 ### 1. Tool Organizing Task
