@@ -1,5 +1,5 @@
 # MAGM
-## Results
+## GiF Results
 ### 1. Tool Organizing Task
 ![Animated GIF](Gif/Tool.gif)
 ### 2. Beam Installation Task
