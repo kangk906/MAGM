@@ -14,4 +14,3 @@
 ![Animated GIF](Gif/Button.gif)
 ### 6. Pipe Maintenance Task
 ![Animated GIF](Gif/Pipe.gif)
-## Usage in the Imitation Learning Platform
